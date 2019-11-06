@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+     <head>
+         <meta charset="utf-8">
+         <title>Home - Techno Co.</title>
+         <style>
+    	     body {
+	              background-color: rgb(75, 75, 75);
+				  font-family: "Futura Bk BT", sans-serif;
+		          color: white;
+				  }
+             h2 {
+				
+                }
+              </style>
+     </head>
+     <body>  
+         <h1>Home</h1>
+   
+         <h2>About us</h2>
+         <p>Company founded in Brazil. Creator of TechnoBoard and the world-famous Techn-OS,<br>
+		    the operating system that runs in our devices.<br>
+			Founded by Deveson Fillype</p>
+   
+         <h2>Products</h2>
+		 <img src="C:\Users\Deveson\Desktop\Design Ideas\3D Models\TechnoBoard model.png" width=500px>
+         <ul>
+             <li>TechnoBoard</li>
+	         <li>Techno</li>
+         </ul>
+  
+         <h2>Apps</h2>
+         <ul>
+		     <li>TechnoBoard</li>
+			 <li>TechnoBrowser</li>
+			 <li>TechnoTranslate</li>
+			 <li>And more...</li>
+		 </ul>
+		 
+		 <a href="Store.html">
+		     <h2>Store</h2>
+		 
+		 </a>
+		 
+		 
+     </body> 
+</html>
